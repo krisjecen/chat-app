@@ -40,7 +40,7 @@ p:nth-of-type(odd) {
   position: relative;
   padding: 10px 20px;
   color: white;
-  background: #0b93f6;
+  background: #0abdb4;
   border-radius: 25px;
   float: right;
 }
@@ -52,7 +52,7 @@ p:nth-of-type(odd):before {
   bottom: -2px;
   right: -7px;
   height: 20px;
-  border-right: 20px solid #0b93f6;
+  border-right: 20px solid #0abdb4;
   border-bottom-left-radius: 16px 14px;
   -webkit-transform: translate(0, -2px);
 }
